@@ -1,6 +1,6 @@
 ![alt text](image.png)
 
-<h1 align="left">Hi, I'm Shiva kumar Paturikuppa</h1>
+<h1 align="left">👋 Hi, I'm Shiva kumar Paturikuppa</h1>
 
 ###
 
