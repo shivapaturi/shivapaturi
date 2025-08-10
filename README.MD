@@ -11,7 +11,7 @@ I’m a passionate DevOps Engineer with 4+ years of experience in automating, se
 
 
 ###
-⚙️ Skills Showcase
+# ⚙️ Skills Showcase
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
