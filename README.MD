@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 # 💫 About Me:
 I’m a passionate DevOps Engineer with 4+ years of experience in automating, securing, and managing cloud infrastructure using tools like Terraform, Ansible, Docker, Kubernetes, and AWS Cloud.<br><br>I specialize in implementing Infrastructure as Code (IaC), CI/CD pipelines, and security automation to deliver scalable and secure applications. I enjoy solving infrastructure challenges and continuously improving cloud environments using DevOps best practices.<br><br>✅ Terraform | AWS | Ansible | Jenkins | GitHub Actions<br>✅ CI/CD | Kubernetes | Docker | Monitoring | Logging<br>✅ Cloud Security | DevSecOps | VPC | IAM | Networking<br><br>📚 Currently enhancing my DevOps & Security skills with hands-on labs, automation projects, and continuous learning.<br><br>🚀 Let’s connect if you’re into automation, DevOps, or cloud infrastructure!
 
