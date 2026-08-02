@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">DevOps Engineer<br>| AWS Cloud | Terraform | Kubernetes | CI/CD | Security Automation | Passionate About Infrastructure as Code</p>
+<p align="left">DevOps Engineer<br>| AWS Cloud | Terraform | Kubernetes | Docker | CI/CD | Security Automation | Passionate About Infrastructure as Code</p>
 
 ###
 
